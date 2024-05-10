@@ -1,9 +1,9 @@
-# tea-game
+# bitbo-tea-game
 NPM library providing essential tea-game utilities for password encryption.
 
 ## Installation
 ```bash
-npm install tea-game
+npm install bitbo-tea-game
 
 ## API
 tea-game
