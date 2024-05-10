@@ -4,7 +4,7 @@
     "ethers": "^6.12.1",
     "web3": "^4.8.0"
   },
-  "name": "tea-game",
+  "name": "bitbo-tea-game",
   "description": "A Node.js library providing essential tea-game utilities for text encryption.",
   "version": "1.0.0",
   "main": "index.js",
