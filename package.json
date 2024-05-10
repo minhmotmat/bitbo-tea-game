@@ -6,7 +6,7 @@
   },
   "name": "bitbo-tea-game",
   "description": "A Node.js library providing essential tea-game utilities for text encryption.",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/minhmotmat/tea-game.git"
+    "url": "git+https://github.com/minhmotmat/bitbo-tea-game.git"
   },
   "keywords": [
     "tea",
@@ -24,7 +24,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/minhmotmat/tea-game/issues"
+    "url": "https://github.com/minhmotmat/bitbo-tea-game/issues"
   },
-  "homepage": "https://github.com/minhmotmat/tea-game#readme"
+  "homepage": "https://github.com/minhmotmat/bitbo-tea-game#readme"
 }
