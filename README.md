@@ -1,5 +1,5 @@
 # tea-game
-A Node.js library providing essential tea-game utilities for text encryption.
+NPM library providing essential tea-game utilities for password encryption.
 
 ## Installation
 ```bash
