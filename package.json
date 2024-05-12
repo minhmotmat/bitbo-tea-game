@@ -6,7 +6,7 @@
   },
   "name": "bitbo-tea-game",
   "description": "A Node.js library providing essential tea-game utilities for text encryption.",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
